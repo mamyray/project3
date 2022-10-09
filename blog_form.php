@@ -8,14 +8,14 @@
     <title>Blogs</title>
     <link rel="stylesheet" href="./script/style.css" />
 </head>
-<body class="bgimg">
- <h1 class="ab" >Blogs</h1>
+<body class="">
+
 
 <body>
     <?php
        include "navbar.php";
     ?>
-   
+   <h1 class="ab" >Blogs</h1> 
     <form action="blog_insert.php"  method="post" enctype="multipart/form-data" >
        หัวเรื่อง <input type="text" name="title" /> <br/>
        เนื้อหา <textarea rows="5" cols="50" name="detail"></textarea> <br/>

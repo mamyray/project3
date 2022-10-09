@@ -9,9 +9,9 @@
     <link rel="stylesheet" href="./script/style.css" />
 </head>
 
-<body class="bgimg">
+<body class="">
 
-    <h1 class="ab"> ยินดีต้อนรับเข้าสู่เว็บไซต์ </h1>
+
     
     <?php
        include "navbar.php";
@@ -22,6 +22,8 @@
         วิชาอินเตอร์เน็ตและการสร้างเว็บไซต์ โรงเรียนฝึกอาชีพ
         กรุงเทพมหานคร (ดินแดง1)
     </p>
+
+    <h1 class="ab"> ยินดีต้อนรับเข้าสู่เว็บไซต์ </h1>
 
     <?php
       include "hello.php";

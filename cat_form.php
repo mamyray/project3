@@ -7,14 +7,14 @@
     <title>Document</title>
     <link rel="stylesheet" href="./script/style.css" />
 </head>
-<body class="bgimg">
-    <h1 class="ab">ประเภทสินค้า</h1>
+<body class="">
+
 
 
     <?php
       include "navbar.php";
     ?>
-
+    <h1 class="ab">ประเภทสินค้า</h1>
     <form action="cat_insert.php" method="post"  enctype="multipart/form-data">
        ประเภทสินค้า <input type="text" name="cat_name" /> <br/>
        แทรกรูป <input type="file" name="photo" /> <br/>

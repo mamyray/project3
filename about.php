@@ -9,16 +9,16 @@
     <link rel="stylesheet" href="./script/style.css" />
 </head>
 
-<body class="bgimg">
-    <h1 class="ab">เกี่ยวกับเรา</h1>
+<body class="">
+
  
     <?php
        include "navbar.php";
     ?>
+    <h1 class="ab">เกี่ยวกับเรา</h1>
 
-    <img src="./images/picture1.jpg" height="200px" />
-    <img src="./images/picture2.jpg" height="200px" />
-    <img src="./images/picture3.jpg" height="200px" />
+    <img src="./images/renuka.jpg" height="400px" />
+
 
 </body>
 

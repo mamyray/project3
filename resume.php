@@ -7,14 +7,14 @@
     <title>ผู้จัดทำ</title>
     <link rel="stylesheet" href="./script/style.css" />
 </head>
-<body class="bgimg">
+<body class="">
 
-    <h1>ผู้จัดทำ</h1>
+
 
     <?php
       include "navbar.php";
     ?>
-    
+    <h1>ผู้จัดทำ</h1>    
     
 </body>
 </html>

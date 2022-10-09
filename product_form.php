@@ -8,14 +8,14 @@
     <title>Document</title>
     <link rel="stylesheet" href="./script/style.css" />
 </head>
-<body class="bgimg">
-    <h1 class="ab">เพิ่มสินค้า </h1>
+<body class="">
+
 
 
     <?php
       include "navbar.php";
     ?>
-
+    <h1 class="ab">เพิ่มสินค้า </h1>
     <form action="product_insert.php" method="post" enctype="multipart/form-data"><br />
         ชื่อสินค้า <input type="text" name="name" /><br />
         ราคา <input type="text" name="price" /> <br />
